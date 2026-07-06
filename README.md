@@ -1,118 +1,176 @@
-# 💳 Plans
+# 🚀 Foxhole Bot
 
-Foxhole Bot is available in **Free** and **Premium** editions.
+Foxhole Bot is a **Discord SaaS system built for Foxhole regiments**.
+
+It helps organize operations, logistics, recruitment, and coordination inside a structured military-style community.
 
 ---
 
-# 🆓 Free
+# ⚔️ What is Foxhole Bot?
+
+Foxhole Bot is not a simple Discord bot.
+
+It is a **complete regiment management system** designed to help teams:
+- Coordinate operations
+- Manage logistics
+- Track activity
+- React fast in emergencies
+
+---
+
+# 🆓 Free vs 💎 Premium
+
+## 🆓 Free Plan
+
+The Free plan allows small regiments to operate basic coordination.
 
 <details>
 <summary>🎫 Recruitment System</summary>
 
-Manage recruitment directly through Discord with a ticket system.
-
-**Included features:**
 - Recruitment tickets
-- Accept / Reject applications
-- Automatic role assignment
+- Accept / reject applications
+- Basic role assignment
 
 </details>
 
 <details>
 <summary>📅 Operations Management</summary>
 
-Organize and manage military operations.
-
-**Included features:**
 - Create operations
-- View operation information
-- List active operations
-- Update operation status
+- List operations
+- View operation details
+- Basic status tracking
 
 </details>
 
 <details>
-<summary>🎯 Objectives Management</summary>
+<summary>🎯 Objectives System</summary>
 
-Create and manage objectives linked to your operations.
-
-**Included features:**
-- Add objectives
+- Create objectives
 - Edit objectives
 - Delete objectives
 
 </details>
 
 <details>
-<summary>📢 Announcements</summary>
+<summary>🚨 Emergency System</summary>
 
-Create announcements for your community and important events.
+- Send emergency alerts
+- Ping selected channels
+- Simple urgent messages
+
+</details>
+
+<details>
+<summary>📆 Absences (LOA)</summary>
+
+- Declare absence
+- View active LOAs
 
 </details>
 
 ---
 
-# 💎 Premium
+## 💎 Premium Plan
+
+Premium is built for **serious and organized regiments**.
+
+It removes limitations and unlocks full operational power.
 
 <details>
-<summary>📦 Advanced Stock Management</summary>
+<summary>🚚 Advanced Logistics System</summary>
 
-Manage your regiment's inventory with complete control.
+Full logistics coordination system for materials and supplies.
 
-**Included features:**
-- Create stock
-- Add items
-- Remove items
-- Set exact quantities
-- View stock information
-- Inventory history
+- Create logistics requests
+- Assign deliveries
+- Track completion
+- Categorized requests (ammo, vehicles, materials)
+- Full history tracking
+- Unlimited active requests
 
 </details>
 
 <details>
-<summary>👥 Attendance Tracking</summary>
+<summary>📊 Advanced Emergency System</summary>
 
-Track member participation and attendance during operations.
+Professional emergency coordination system.
 
-</details>
-
-<details>
-<summary>🔐 Advanced Permissions</summary>
-
-Create a fully customizable permission system.
-
-**Included features:**
-- User permissions
-- Role permissions
-- Permission viewer
+- Multi-channel alerts
+- Priority levels
+- Role-specific notifications
+- Emergency templates
+- Full logs & analytics
 
 </details>
 
 <details>
-<summary>⚙️ Server Configuration</summary>
+<summary>📆 Advanced Absences System</summary>
 
-Configure every module independently for each Discord server.
+Extended LOA management for large regiments.
+
+- Full history tracking
+- Filters and search
+- Statistics per member
+- Export system
 
 </details>
 
 <details>
 <summary>📊 History System</summary>
 
-Access complete logs of actions performed on your server.
+Complete server activity tracking.
 
-**Included features:**
-- Global history
-- Operations history
+- Global action logs
+- Operation history
+- Logistics history
+- User activity tracking
 
 </details>
 
 <details>
-<summary>🤖 AI PDF Summaries (Coming Soon)</summary>
+<summary>⚙️ Server Configuration</summary>
 
-Generate AI-powered summaries from PDF documents directly inside Discord.
+Fully customizable system per server.
+
+- Enable/disable modules
+- Custom settings per feature
+- Role configuration
+- Channel management
 
 </details>
 
 ---
 
-> 🚀 Foxhole Bot is actively developed, and new features are added regularly.
+# ⚔️ Free vs Premium Philosophy
+
+- 🆓 Free = basic coordination for small groups
+- 💎 Premium = full regiment command system
+
+> Free lets you operate. Premium lets you dominate.
+
+---
+
+# 🚀 Key Features
+
+- Designed specifically for Foxhole regiments
+- Fully modular system
+- Scalable multi-server architecture
+- Real-time coordination tools
+- Built for organized warfare gameplay
+
+---
+
+# 📈 Future Updates
+
+- 📊 Advanced statistics dashboard
+- 🌍 Multi-language support
+- 📱 Web dashboard
+- 🤖 AI operation summaries
+- 📦 Advanced analytics for logistics
+
+---
+
+# 💬 Contact
+
+For support or inquiries, contact the bot owner or server administration.
