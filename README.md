@@ -1,3 +1,39 @@
+# 🚀 Foxhole Bot – Complete Regiment Management
+
+[![Discord Invite](https://img.shields.io/badge/Discord-Invite%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-link-here.com)
+[![Support Server](https://img.shields.io/badge/Support-Join%20Discord-FF5722?style=for-the-badge&logo=discord&logoColor=white)](https://your-link-here.com)
+
+> **The all-in-one Discord management bot built for Foxhole regiments.**
+
+---
+
+## 📊 At a glance
+
+- 🚀 30+ Slash Commands
+- 🌍 Multi-Regiment Support
+- ⚡ Easy Setup
+- 💎 Free & Premium Plans
+- 🤖 AI Features *(Coming Soon)*
+
+---
+
+# ✨ Features
+
+- 🎫 Recruitment System
+- 📅 Operations Management
+- 🎯 Objectives Management
+- 📦 Stock Management
+- 🚚 Logistics Requests
+- 🏆 MSUP Contribution System
+- 📆 Leave of Absence (LOA)
+- 🚨 Emergency System
+- 🔐 Permission System
+- 📊 History & Logs
+- ⚙️ Advanced Configuration
+- 🤖 AI Summaries *(Coming Soon)*
+
+---
+
 # 🆓 Free Plan
 
 Perfect for small regiments getting started.
@@ -8,7 +44,7 @@ Perfect for small regiments getting started.
 - Automatic Role Assignment
 
 ### 📅 Operations
-- Operations Management
+- Create Operations
 - Operations List
 - Operation Information
 
@@ -47,46 +83,34 @@ Everything included in **Free**, plus:
 - ♾️ Unlimited Logistics Requests
 - ♾️ Unlimited History
 
----
-
 ## 🏆 MSUP Contribution System
-
-Turn logistics into a rewarding progression system.
 
 - 🏅 Contribution Points
 - 📈 Logistics Leaderboard
 - 🎖️ Progression Ranks
 - 📜 Contribution History
 - ⚡ Fast Claim
-- 👑 Exclusive Titles & Recognition
+- 👑 Exclusive Titles
 
----
-
-## 🚨 Advanced Regiment Management
-
-### 📆 Leave of Absence (LOA)
+## 📆 Leave of Absence (LOA)
 
 - Complete Leave Management
 - Leave Tracking
 - Leave History
 
-### 🚨 Emergency System
+## 🚨 Emergency System
 
 - Emergency Alerts
 - Priority Levels
-- Multi-channel Notifications
+- Advanced Notifications
 - Emergency Logs
 
----
-
-## 📦 Advanced Logistics
+## 📦 Advanced Logistics & Stock
 
 - Set Stock Values
 - Stock Panel
 - Complete Deliveries
 - Logistics History
-
----
 
 ## 📊 Monitoring & Logs
 
@@ -95,15 +119,11 @@ Turn logistics into a rewarding progression system.
 - Action Tracking
 - Detailed Statistics
 
----
-
 ## 🎯 Interactive Panels
 
-- 📅 Operations Panel
-- 🎯 Objectives Panel
-- 📦 Stock Panel
-
----
+- Operations Panel
+- Objectives Panel
+- Stock Panel
 
 ## ⚙️ Advanced Configuration
 
@@ -111,9 +131,24 @@ Turn logistics into a rewarding progression system.
 - Advanced Server Settings
 - Extended Customization
 
----
-
 ## 🤖 AI Features *(Coming Soon)*
 
-- 📄 PDF Summaries
-- 📝 Operation Summaries
+- Operation Summaries
+- PDF Summaries
+
+---
+
+# 💰 Pricing
+
+| Plan | Price | Billing |
+|---|---:|---|
+| **Monthly** | **€4.90 / month** | Flexible monthly subscription |
+| **3 Months** | **€12.90** | Perfect for an entire war |
+| **6 Months** | **€22.90** | Built for veteran regiments |
+| **1 Year** | **€39.90** | 🔥 **Best Value (30%+ savings)** |
+
+---
+
+# ❤️ Built for the Foxhole Community
+
+Designed to simplify regiment management while making operations, logistics and coordination easier than ever.
