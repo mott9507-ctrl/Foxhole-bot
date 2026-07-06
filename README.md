@@ -44,13 +44,6 @@ Create and manage objectives linked to your operations.
 </details>
 
 <details>
-<summary>👋 Welcome System</summary>
-
-Automatically welcome new members with customizable messages.
-
-</details>
-
-<details>
 <summary>📢 Announcements</summary>
 
 Create announcements for your community and important events.
