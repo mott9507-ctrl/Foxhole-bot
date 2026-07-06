@@ -1,133 +1,125 @@
-# 🚀 Foxhole Bot
+# 💳 Plans
 
-Foxhole Bot is a Discord management system designed for structured communities such as clans, roleplay groups, and organized teams.  
-It helps automate server administration and centralize all important tools in one place.
-
----
-
-## ⚡ Overview
-
-Foxhole Bot provides a complete management system for Discord servers, including recruitment, operations, stock management, objectives, permissions, and automation tools.
+Foxhole Bot is available in **Free** and **Premium** editions.
 
 ---
 
-## 🚀 Features
+# 🆓 Free
 
 <details>
 <summary>🎫 Recruitment System</summary>
 
-- Ticket-based recruitment system
-- Approve / reject applications
-- Role assignment system
+Manage recruitment directly through Discord with a ticket system.
+
+**Included features:**
+- Recruitment tickets
+- Accept / Reject applications
+- Automatic role assignment
 
 </details>
 
 <details>
-<summary>📅 Operations System</summary>
+<summary>📅 Operations Management</summary>
 
-- Create and manage operations
-- Operation status tracking
-- Operation information panel
+Organize and manage military operations.
 
-</details>
-
-<details>
-<summary>🎯 Objectives System</summary>
-
-- Add / edit / delete objectives
-- Link objectives to operations
-- Progress tracking
+**Included features:**
+- Create operations
+- View operation information
+- List active operations
+- Update operation status
 
 </details>
 
 <details>
-<summary>📦 Stock System</summary>
+<summary>🎯 Objectives Management</summary>
 
-- Add / remove / delete items
-- Set exact values (important for ammo / resources)
-- Stock tracking & info system
+Create and manage objectives linked to your operations.
+
+**Included features:**
+- Add objectives
+- Edit objectives
+- Delete objectives
 
 </details>
 
 <details>
-<summary>👥 Permissions System</summary>
+<summary>👋 Welcome System</summary>
 
-- Role-based permissions
-- Add / remove user permissions
-- Add / remove role permissions
+Automatically welcome new members with customizable messages.
+
+</details>
+
+<details>
+<summary>📢 Announcements</summary>
+
+Create announcements for your community and important events.
+
+</details>
+
+---
+
+# 💎 Premium
+
+<details>
+<summary>📦 Advanced Stock Management</summary>
+
+Manage your regiment's inventory with complete control.
+
+**Included features:**
+- Create stock
+- Add items
+- Remove items
+- Set exact quantities
+- View stock information
+- Inventory history
+
+</details>
+
+<details>
+<summary>👥 Attendance Tracking</summary>
+
+Track member participation and attendance during operations.
+
+</details>
+
+<details>
+<summary>🔐 Advanced Permissions</summary>
+
+Create a fully customizable permission system.
+
+**Included features:**
+- User permissions
+- Role permissions
+- Permission viewer
+
+</details>
+
+<details>
+<summary>⚙️ Server Configuration</summary>
+
+Configure every module independently for each Discord server.
 
 </details>
 
 <details>
 <summary>📊 History System</summary>
 
-- Global history logging
-- Operation history tracking
+Access complete logs of actions performed on your server.
+
+**Included features:**
+- Global history
+- Operations history
 
 </details>
 
 <details>
-<summary>🎫 Ticket System</summary>
+<summary>🤖 AI PDF Summaries (Coming Soon)</summary>
 
-- `/ticket open` → Open a ticket
-- `/ticket close` → Close a ticket
-
-</details>
-
-<details>
-<summary>⚙️ Configuration</summary>
-
-- Full server configuration system
-- Custom setup for each guild
-- Panels for ops, stock, objectives
-
-</details>
-
-<details>
-<summary>🤖 AI Features (Coming Soon)</summary>
-
-- PDF summarization using AI
-- Future automation tools
+Generate AI-powered summaries from PDF documents directly inside Discord.
 
 </details>
 
 ---
 
-## 💡 Key Idea
-
-Foxhole Bot is designed to act like a **full management system**, not just a simple Discord bot.  
-It helps communities organize themselves like real structured organizations.
-
----
-
-## 🎯 Target Users
-
-- Gaming clans
-- Roleplay servers
-- Competitive teams
-- Organized Discord communities
-
----
-
-## ⚙️ Commands Structure
-
-Main command groups:
-- `/configuration`
-- `/op`
-- `/stock`
-- `/objective`
-- `/perm`
-- `/ticket`
-- `/history`
-
----
-
-## 🚀 Goal
-
-To provide a complete Discord management solution that reduces manual work and improves organization.
-
----
-
-## 📫 Contact
-
-For support or inquiries, contact the server owner or project maintainer.
+> 🚀 Foxhole Bot is actively developed, and new features are added regularly.
