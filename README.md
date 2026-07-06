@@ -22,54 +22,48 @@ It is a **complete regiment management system** designed to help teams:
 
 ## 🆓 Free Plan
 
-The Free plan allows small regiments to operate basic coordination using classic text commands.
+The Free plan allows small or starting regiments to test the bot with basic text commands and strict operational limits.
 
 <details>
-<summary>🎫 Recruitment System</summary>
+<summary>🎫 Recruitment System (Limited)</summary>
 
-- Recruitment tickets
+- Recruitment tickets (Limited to **3 open tickets maximum** at the same time)
 - Accept / reject applications
 - Basic role assignment
 
 </details>
 
 <details>
-<summary>📅 Operations Management</summary>
+<summary>📅 Operations Management (Limited)</summary>
 
-- Create operations (Limited to **2 active operations** simultaneously)
+- Create operations (Strictly limited to **1 active operation** at a time)
 - View operation details
 - List active operations
-- Basic status tracking
 
 </details>
 
 <details>
-<summary>🎯 Objectives System</summary>
+<summary>🎯 Objectives System (Basic)</summary>
 
-- Add objectives
-- Edit objectives
-- Delete objectives
-- Link objectives to operations
+- Add, edit, and delete objectives
+- *Note: Linking objectives to operations is a Premium feature.*
 
 </details>
 
 <details>
-<summary>📦 Stock Management (Limited)</summary>
+<summary>📦 Stock Management (Strictly Limited)</summary>
 
 - Create stocks (Limited to **2 stocks maximum**)
-- Add items (via text commands)
-- Remove items (via text commands)
-- Delete/Remove stock
+- Add/Remove items via text commands (Limited to **10 item types maximum** per stock)
 - Set exact stock values
 
 </details>
 
 <details>
-<summary>🚚 Logistics Requests (Basic)</summary>
+<summary>🚚 Logistics Requests (Text Only)</summary>
 
-- Create logistics requests
-- Basic delivery tracking
-- Manual request history
+- Create basic logistics requests
+- *Note: No delivery tracking, no assignments, and no history in the Free plan.*
 
 </details>
 
@@ -78,26 +72,22 @@ The Free plan allows small regiments to operate basic coordination using classic
 
 - Create simple urgent alerts
 - Ping specific channels
-- Basic status tracking
 
 </details>
 
 <details>
 <summary>📆 Absences (LOA)</summary>
 
-- Add absence
-- Remove absence
+- Add / remove absence
 - View active LOA list
-- View absence info
 
 </details>
 
 <details>
 <summary>👥 Permissions & Config</summary>
 
-- Add/Remove user permissions
-- Add/Remove role permissions
-- Full server configuration (Channels, modules toggles)
+- Add/Remove user and role permissions
+- Basic server configuration (Channels, modules toggles)
 
 </details>
 
@@ -108,7 +98,7 @@ The Free plan allows small regiments to operate basic coordination using classic
 Premium is built for **serious, competitive and organized regiments**. It removes all limitations, replaces text commands with fast UI buttons, and unlocks the full power of gamification.
 
 <details>
-<summary>🚚 MSUP System (Logistics Gamification)</summary>
+<summary>🏆 MSUP System (Logistics Gamification)</summary>
 
 The ultimate tool to motivate your logi players and reward their hard work.
 - **Points Allocation:** Earn MSUP points by delivering crates, depositing in bases, and responding to front-line emergencies.
@@ -140,22 +130,31 @@ Automatic Discord role promotion based on total activity:
 </details>
 
 <details>
-<summary>🎁 MSUP Rewards</summary>
+<summary>🎁 MSUP Rewards & Priority</summary>
 
-- Visual badges on player profiles
-- Automated Discord titles
+- Visual badges on player profiles & automated Discord titles
 - Shouting out top weekly/monthly suppliers
 - **Fast Claim:** Priority on logistics missions
 
 </details>
 
 <details>
-<summary>📊 Dynamic Interactive Panels</summary>
+<summary>🎛️ Interactive Dynamic Panels (No Core Commands)</summary>
 
 Stop typing boring text commands. Manage your entire clan with one click.
 - **Operation Panels:** Sign up for operations instantly via Discord buttons.
 - **Stock Panels:** Interactive buttons to add/remove items visually (`+100 crates`).
 - **Objective Panels:** Visual boards tracking tactical targets.
+
+</details>
+
+<details>
+<summary>🚚 Advanced Logistics Tracking & Links</summary>
+
+- **Unlimited Active Requests & Stocks** (No item limits per stock)
+- Assign deliveries to specific players
+- Full step-by-step delivery tracking (Claimed, In Transit, Delivered)
+- **Tactical Link:** Connect objectives directly to operations and stocks
 
 </details>
 
@@ -200,7 +199,7 @@ Stop typing boring text commands. Manage your entire clan with one click.
 
 # ⚔️ Free vs Premium Philosophy
 
-- 🆓 **Free** = Manual coordination via text commands for small groups.
+- 🆓 **Free** = Manual coordination via text commands with strict limits for small groups.
 - 💎 **Premium** = Automated command system with gamification to dominate the war.
 
 > Free lets you operate. Premium lets you dominate.
