@@ -25,40 +25,79 @@ It is a **complete regiment management system** designed to help teams:
 The Free plan allows small regiments to operate basic coordination using classic text commands.
 
 <details>
-<summary>🎫 Recruitment & Members</summary>
+<summary>🎫 Recruitment System</summary>
 
 - Recruitment tickets
 - Accept / reject applications
 - Basic role assignment
-- Declare absence (LOA) & active LOA list
 
 </details>
 
 <details>
-<summary>📅 Operations & Objectives</summary>
+<summary>📅 Operations Management</summary>
 
 - Create operations (Limited to **2 active operations** simultaneously)
-- View operation details & list
-- Create, edit, and delete objectives
-- Link objectives to active operations
+- View operation details
+- List active operations
+- Basic status tracking
 
 </details>
 
 <details>
-<summary>📦 Basic Logistics & Stocks</summary>
+<summary>🎯 Objectives System</summary>
 
-- Create and manage stocks (Limited to **2 stocks maximum**)
-- Add, edit, and remove items via text commands
-- Basic logistics requests and delivery tracking
+- Add objectives
+- Edit objectives
+- Delete objectives
+- Link objectives to operations
 
 </details>
 
 <details>
-<summary>⚙️ Server Admin & Logs</summary>
+<summary>📦 Stock Management (Limited)</summary>
 
-- Complete server configuration and module activation
-- User and role permissions setup
-- Short-term action history (Logs cleared after **48 hours**)
+- Create stocks (Limited to **2 stocks maximum**)
+- Add items (via text commands)
+- Remove items (via text commands)
+- Delete/Remove stock
+- Set exact stock values
+
+</details>
+
+<details>
+<summary>🚚 Logistics Requests (Basic)</summary>
+
+- Create logistics requests
+- Basic delivery tracking
+- Manual request history
+
+</details>
+
+<details>
+<summary>🚨 Emergency System (Basic)</summary>
+
+- Create simple urgent alerts
+- Ping specific channels
+- Basic status tracking
+
+</details>
+
+<details>
+<summary>📆 Absences (LOA)</summary>
+
+- Add absence
+- Remove absence
+- View active LOA list
+- View absence info
+
+</details>
+
+<details>
+<summary>👥 Permissions & Config</summary>
+
+- Add/Remove user permissions
+- Add/Remove role permissions
+- Full server configuration (Channels, modules toggles)
 
 </details>
 
@@ -66,52 +105,94 @@ The Free plan allows small regiments to operate basic coordination using classic
 
 ## 💎 Premium Plan (4.90€ / mo)
 
-Premium is built for **serious, competitive and organized regiments**. 
-
-It removes all limitations, replaces text commands with fast UI buttons, and unlocks the full power of gamification.
+Premium is built for **serious, competitive and organized regiments**. It removes all limitations, replaces text commands with fast UI buttons, and unlocks the full power of gamification.
 
 <details>
-<summary>🏆 MSUP System (Logistics Gamification)</summary>
+<summary>🚚 MSUP System (Logistics Gamification)</summary>
 
 The ultimate tool to motivate your logi players and reward their hard work.
 - **Points Allocation:** Earn MSUP points by delivering crates, depositing in bases, and responding to front-line emergencies.
-- **Progression & Ranks:** Automatic Discord role promotion based on activity (`Logistic Recruit` ➔ `Supply Handler` ➔ `MSUP Specialist` ➔ `Logistics Officer` ➔ `Elite Supplier`).
-- **Leaderboards & Profiles:** Weekly/monthly global leaderboards, user profile cards, and verified anti-cheat system.
+- **Critical Restock:** High bonus points for refilling critically low base supplies.
+- **Anti-Cheat:** Admin verification and validated point systems.
 
 </details>
 
 <details>
-<summary>🎛️ Interactive Dynamic Panels</summary>
+<summary>💻 MSUP Commands & UI</summary>
+
+- `/msup give` (Admin validation and manual adjustments)
+- `/msup leaderboard` (Top weekly / monthly players)
+- `/msup profile` (Personal logistics card)
+- `/msup history` (Full personal delivery logs)
+
+</details>
+
+<details>
+<summary>🏅 MSUP Progression Ranks</summary>
+
+Automatic Discord role promotion based on total activity:
+- 🟢 `Logistic Recruit`
+- 🔵 `Supply Handler`
+- 🟣 `MSUP Specialist`
+- 🟡 `Logistics Officer`
+- 🔴 `Elite Supplier`
+
+</details>
+
+<details>
+<summary>🎁 MSUP Rewards</summary>
+
+- Visual badges on player profiles
+- Automated Discord titles
+- Shouting out top weekly/monthly suppliers
+- **Fast Claim:** Priority on logistics missions
+
+</details>
+
+<details>
+<summary>📊 Dynamic Interactive Panels</summary>
 
 Stop typing boring text commands. Manage your entire clan with one click.
-- **Clickable Panels:** Update stocks (`+100 crates`), sign up for operations, or claim logi missions instantly via Discord buttons.
-- **Fast Claim:** Logi players can instantly claim an open logistics request in one click.
+- **Operation Panels:** Sign up for operations instantly via Discord buttons.
+- **Stock Panels:** Interactive buttons to add/remove items visually (`+100 crates`).
+- **Objective Panels:** Visual boards tracking tactical targets.
 
 </details>
 
 <details>
-<summary>♾️ Unlimited Operations & Stocks</summary>
+<summary>🚨 Advanced Emergency System</summary>
 
-- **Unlimited Stocks:** Track an infinite number of frontline bunkers, facilities, and backline depots.
-- **Unlimited Operations:** Plan as many operations and tactical objectives as your regiment needs.
-
-</details>
-
-<details>
-<summary>🚨 Critical Emergency System</summary>
-
-- Create high-priority emergency alerts when the frontline is falling.
-- Automatic server/role pings to wake up your logi squad.
+- High-priority emergency alerts with automated cross-channel pings.
+- Emergency logs and history tracking.
 - **MSUP Bonus:** Automatic point multipliers for players responding to active emergencies.
 
 </details>
 
 <details>
-<summary>🤖 AI & Advanced Analytics (Future/Premium)</summary>
+<summary>📜 Server History & Global Logs</summary>
 
-- **AI Summaries:** Generate automated AI war operation summaries.
-- **PDF Exports:** Export logistics and operation logs to clean PDF files.
-- **Infinite History:** Complete tracking and full history of all actions preserved for the entire war.
+- Infinite history (Logs preserved for the entire duration of the war)
+- Global action logs
+- Full operation history
+- Detailed logistics logs
+
+</details>
+
+<details>
+<summary>🤖 AI & Advanced Analytics (Future Features)</summary>
+
+- **AI Summaries:** Automated AI war operation and tactical summaries.
+- **PDF Exports:** Export clean PDF reports of logistics and operation logs.
+- **Log Analysis:** AI-powered analysis of server activity and trends.
+
+</details>
+
+<details>
+<summary>🌍 SaaS Features</summary>
+
+- Multi-regiment support (One bot for multiple clans)
+- Automated server subscription activation
+- Secure Stripe integration (Monthly, 3-months, 6-months, Yearly)
 
 </details>
 
