@@ -1,90 +1,85 @@
 # 🚀 Foxhole Bot
 
-Foxhole Bot is a Discord management system designed to help structured communities stay organized, efficient, and scalable.  
-It automates server administration and centralizes key tools for recruitment, operations, tracking, and communication.
+Foxhole Bot is a Discord management system designed for structured communities such as clans, roleplay groups, and organized teams.  
+It helps automate server administration and centralize all important tools in one place.
 
 ---
 
-## ⚡ Features
+## ⚡ Overview
+
+Foxhole Bot provides a complete management system for Discord servers, including recruitment, operations, stock management, objectives, permissions, and automation tools.
+
+---
+
+## 🚀 Features
 
 <details>
 <summary>🎫 Recruitment System</summary>
 
-- Recruitment tickets with approval / rejection
-- Automatic role assignment
+- Ticket-based recruitment system
+- Approve / reject applications
+- Role assignment system
 
 </details>
 
 <details>
-<summary>📅 Operations Management</summary>
+<summary>📅 Operations System</summary>
 
 - Create and manage operations
-- Schedule events and activities
+- Operation status tracking
+- Operation information panel
 
 </details>
 
 <details>
-<summary>🎯 Goals System</summary>
+<summary>🎯 Objectives System</summary>
 
-- Set server objectives
-- Track progress and completion
-
-</details>
-
-<details>
-<summary>📦 Inventory System</summary>
-
-- Stock management
-- Add / remove items
-- Inventory tracking
+- Add / edit / delete objectives
+- Link objectives to operations
+- Progress tracking
 
 </details>
 
 <details>
-<summary>👥 Attendance System</summary>
+<summary>📦 Stock System</summary>
 
-- Track member presence
-- Monitor activity in the server
+- Add / remove / delete items
+- Set exact values (important for ammo / resources)
+- Stock tracking & info system
 
 </details>
 
 <details>
-<summary>🔐 Permissions System</summary>
+<summary>👥 Permissions System</summary>
 
 - Role-based permissions
-- Secure access control system
+- Add / remove user permissions
+- Add / remove role permissions
 
 </details>
 
 <details>
-<summary>👋 Welcome System</summary>
+<summary>📊 History System</summary>
 
-- Custom welcome messages
-- Fully configurable per server
-
-</details>
-
-<details>
-<summary>📢 Announcements</summary>
-
-- Broadcast system for updates and events
-- Live-style announcements support
+- Global history logging
+- Operation history tracking
 
 </details>
 
 <details>
-<summary>💤 Anti-AFK Voice System</summary>
+<summary>🎫 Ticket System</summary>
 
-- Detect inactive users in voice channels
-- Optional automated actions
+- `/ticket open` → Open a ticket
+- `/ticket close` → Close a ticket
 
 </details>
 
 <details>
-<summary>⚙️ Configuration System</summary>
+<summary>⚙️ Configuration</summary>
 
-- Full server setup system
-- Fully customizable per guild
+- Full server configuration system
+- Custom setup for each guild
+- Panels for ops, stock, objectives
 
 </details>
 
@@ -92,34 +87,44 @@ It automates server administration and centralizes key tools for recruitment, op
 <summary>🤖 AI Features (Coming Soon)</summary>
 
 - PDF summarization using AI
-- Future smart automation tools
+- Future automation tools
 
 </details>
 
 ---
 
-## 💡 Project Purpose
+## 💡 Key Idea
 
-Foxhole Bot is built for:
-- Gaming communities
+Foxhole Bot is designed to act like a **full management system**, not just a simple Discord bot.  
+It helps communities organize themselves like real structured organizations.
+
+---
+
+## 🎯 Target Users
+
+- Gaming clans
 - Roleplay servers
-- Organized teams / clans
-- Structured Discord servers
+- Competitive teams
+- Organized Discord communities
 
-It reduces manual work and improves coordination through automation.
+---
+
+## ⚙️ Commands Structure
+
+Main command groups:
+- `/configuration`
+- `/op`
+- `/stock`
+- `/objective`
+- `/perm`
+- `/ticket`
+- `/history`
 
 ---
 
 ## 🚀 Goal
 
-To provide a complete Discord management solution that allows communities to operate like real structured organizations.
-
----
-
-## 📌 Status
-
-🟢 Active development  
-🧪 New features coming regularly  
+To provide a complete Discord management solution that reduces manual work and improves organization.
 
 ---
 
