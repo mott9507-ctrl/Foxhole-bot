@@ -142,10 +142,10 @@ Everything included in **Free**, plus:
 
 | Plan | Price | Billing |
 |---|---:|---|
-| **Monthly** | **€4.90 / month** | Flexible monthly subscription |
-| **3 Months** | **€12.90** | Perfect for an entire war |
-| **6 Months** | **€22.90** | Built for veteran regiments |
-| **1 Year** | **€39.90** | 🔥 **Best Value (30%+ savings)** |
+| **Monthly** | **€3.49 / month** | Flexible monthly subscription |
+| **3 Months** | **€9.49** | Perfect for an entire war |
+| **6 Months** | **€17.99** | Built for veteran regiments |
+| **1 Year** | **€31.49** | 🔥 **Best Value (25% savings)** |
 
 ---
 
